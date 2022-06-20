@@ -1,6 +1,8 @@
 discord.py
 asyncio
 
+
+# 토큰 숨기기------------------------------
 import os 
 from dotenv import load_dotenv
 load_dotenv()
