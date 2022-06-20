@@ -1,1 +1,1 @@
-worker: python 히로쿠.py
+worker: python3 히로쿠.py
