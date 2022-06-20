@@ -446,6 +446,6 @@ async def 멜론차트(ctx):
 
 
 
-bot.run('OTg0NjU1NTAzMzIzOTYzNDcz.G2oH0H.xkXvIzQWgzCaR_y9GSJbN2ftK5WGWnj-MT5xZY')
+bot.run('OTg0NjU1NTAzMzIzOTYzNDcz.GImTkc.iNUKdkspDigZZk4dAE4hm3DuZ97mED48Cr2Byc')
 
 
