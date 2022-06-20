@@ -16,7 +16,7 @@ import time
 import os 
 from dotenv import load_dotenv
 load_dotenv()
-token = os.gentenv("OTg0NjU1NTAzMzIzOTYzNDcz.G-P8fu.YDIufp3dwA1MIS0MgYj1InpNOigd4Ol0do9BMY")
+token = os.gentenv("OTg0NjU1NTAzMzIzOTYzNDcz.GgCkAo.0cAS8azayNkr8Zdv6apN7DrZGaQyIY4blUe70w")
 
 #------ 버튼
 from discord.ui import Button, View
@@ -444,6 +444,6 @@ async def 멜론차트(ctx):
 
 
 
-bot.run('OTg0NjU1NTAzMzIzOTYzNDcz.G-P8fu.YDIufp3dwA1MIS0MgYj1InpNOigd4Ol0do9BMY')
+bot.run('OTg0NjU1NTAzMzIzOTYzNDcz.GgCkAo.0cAS8azayNkr8Zdv6apN7DrZGaQyIY4blUe70w')
 
 
