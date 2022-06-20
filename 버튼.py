@@ -10,6 +10,12 @@ from discord import FFmpegPCMAudio
 import asyncio
 import time
 
+#------토큰 숨기기---------
+
+
+
+#------------------------------
+
 #------ 버튼
 from discord.ui import Button, View
 intents = discord.Intents.all()
@@ -440,6 +446,6 @@ async def 멜론차트(ctx):
 
 
 
-bot.run('OTg0NjU1NTAzMzIzOTYzNDcz.GMHpvb.73kcFMPFkFKIOQGxE7fcZjmfTnsWeKVg370mTQ')
+bot.run('OTg0NjU1NTAzMzIzOTYzNDcz.G2oH0H.xkXvIzQWgzCaR_y9GSJbN2ftK5WGWnj-MT5xZY')
 
 
