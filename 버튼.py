@@ -104,6 +104,10 @@ async def on_message(message):
         await message.channel.send("웨 ㅇㅂㅇ?")
     await bot.process_commands(message)
 
+    if message.content == ("몽실1"):
+        await message.channel.send("기프티콘은 못말려")
+    await bot.process_commands(message)
+
     if message.content == ("11"):
         await message.channel.send("웨?")
     await bot.process_commands(message)
